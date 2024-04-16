@@ -6,7 +6,7 @@
     --accentColor: #FFF;
     --nameColor: #009688;
     --font: 'Karla', sans-serif;
-    --delay: .3s;
+    --delay: .1s;
 }
 
 body {
@@ -36,7 +36,7 @@ body {
 
 #userName {
     color: var(--nameColor);
-    font-size: 1rem;
+    font-size: 2rem;
     font-weight: bold;
     line-height: 1.25;
     display: block;
