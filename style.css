@@ -4,6 +4,7 @@
     --bgColor: #223344;
     --bgColor2: #090a0f;
     --accentColor: #FFF;
+    --nameColor: #009688;
     --font: 'Karla', sans-serif;
     --delay: .3s;
 }
@@ -34,7 +35,7 @@ body {
 }
 
 #userName {
-    color: var(--accentColor);
+    color: var(--nameColor);
     font-size: 1rem;
     font-weight: bold;
     line-height: 1.25;
